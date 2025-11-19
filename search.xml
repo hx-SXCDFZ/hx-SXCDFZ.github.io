@@ -8,7 +8,7 @@
       <link href="/2025/11/19/%E8%8F%9C%E7%8B%97%E6%9D%AF%E4%B8%89%E9%A2%98/"/>
       <url>/2025/11/19/%E8%8F%9C%E7%8B%97%E6%9D%AF%E4%B8%89%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[<h1 id="菜狗杯三题题解"><a href="#菜狗杯三题题解" class="headerlink" title="菜狗杯三题题解"></a>菜狗杯三题题解</h1><h2 id="杂项签到"><a href="#杂项签到" class="headerlink" title="杂项签到"></a>杂项签到</h2><p>cover: &#x2F;img&#x2F;misc1.png<br>打开之后是一张图片，用010Editor打开它，然后搜索“ctfshow”就能看到flag!<br><img src="/img/misc1.png" alt="misc1"></p><h2 id="损坏的压缩包"><a href="#损坏的压缩包" class="headerlink" title="损坏的压缩包"></a>损坏的压缩包</h2><p>cover: &#x2F;img&#x2F;251115-1.png<br>同样用010打开查看十六进制，显示PNG，于是把文件后缀改为png，就可以看到flag啦！<br><img src="/img/251115-1.png" alt="2"><br><img src="/img/251115-2.png" alt="3"></p><h2 id="我是谁？？"><a href="#我是谁？？" class="headerlink" title="我是谁？？"></a>我是谁？？</h2><p>这是一个<del>寻找美女的</del>题，可以把美女列表和答题的界面分开方便瞪眼（眼要瞅瞎了谢谢）。<br>连续做对三十题就可以拿到flag啦，做错了要重新来哦（泣不成声）。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="菜狗杯三题题解"><a href="#菜狗杯三题题解" class="headerlink" title="菜狗杯三题题解"></a>菜狗杯三题题解</h1><h2 id="杂项签到"><a href="#杂项签到" class="headerlink" title="杂项签到"></a>杂项签到</h2><p>打开之后是一张图片，用010Editor打开它，然后搜索“ctfshow”就能看到flag!<br><img src="/img/misc1.png" alt="misc1"></p><h2 id="损坏的压缩包"><a href="#损坏的压缩包" class="headerlink" title="损坏的压缩包"></a>损坏的压缩包</h2><p>同样用010打开查看十六进制，显示PNG，于是把文件后缀改为png，就可以看到flag啦！<br><img src="/img/251115-1.png" alt="2"><br><img src="/img/251115-2.png" alt="3"></p><h2 id="我是谁？？"><a href="#我是谁？？" class="headerlink" title="我是谁？？"></a>我是谁？？</h2><p>这是一个<del>寻找美女的</del>题，可以把美女列表和答题的界面分开方便瞪眼（眼要瞅瞎了谢谢）。<br>连续做对三十题就可以拿到flag啦，做错了要重新来哦（泣不成声）。</p>]]></content>
       
       
       
