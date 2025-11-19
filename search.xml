@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>菜狗杯三题</title>
+      <link href="/2025/11/19/%E8%8F%9C%E7%8B%97%E6%9D%AF%E4%B8%89%E9%A2%98/"/>
+      <url>/2025/11/19/%E8%8F%9C%E7%8B%97%E6%9D%AF%E4%B8%89%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h1 id="菜狗杯三题题解"><a href="#菜狗杯三题题解" class="headerlink" title="菜狗杯三题题解"></a>菜狗杯三题题解</h1><h2 id="杂项签到"><a href="#杂项签到" class="headerlink" title="杂项签到"></a>杂项签到</h2><p>打开之后是一张图片，用010Editor打开它，然后搜索“ctfshow”就能看到flag!<br><img src="/img/misc1.png" alt="misc1"></p><h2 id="损坏的压缩包"><a href="#损坏的压缩包" class="headerlink" title="损坏的压缩包"></a>损坏的压缩包</h2><p>同样用010打开查看十六进制，显示PNG，于是把文件后缀改为png，就可以看到flag啦！<br><img src="/img/251115-1.png" alt="2"><br><img src="/img/251115-2.png" alt="3"><br>##我是谁？？<br>这是一个<del>寻找美女的</del>题，可以把美女列表和答题的界面分开方便瞪眼（眼要瞅瞎了谢谢）。<br>连续做对三十题就可以拿到flag啦，做错了要重新来哦（泣不成声）。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> CTF </tag>
+            
+            <tag> 菜狗杯 </tag>
+            
+            <tag> 题解 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇文章</title>
+      <link href="/2025/11/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2025/11/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2025/01/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2025/01/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<p>这是我的第一篇 Hexo 博客文章！</p><h1 id=""><a href="#" class="headerlink" title=""></a></h1><h2 id="欢迎来到我的博客"><a href="#欢迎来到我的博客" class="headerlink" title="欢迎来到我的博客"></a>欢迎来到我的博客</h2><p>嗯是的没错，这是我的第一篇文章，现在让我研究一下该怎么写！<br><strong>这样能加粗？</strong><br><em>这样是斜体</em><br><del>删除</del></p><p>弄个图片叭<br><img src="/img/yzt.jpg" alt="请看图"></p><blockquote><p>引用<br>什么意思</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
